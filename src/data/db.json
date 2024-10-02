@@ -1,0 +1,112 @@
+{
+  "alunos": [
+    {
+      "id": "3",
+      "nome": "Carla Oliveira",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "4",
+      "nome": "Daniel Costa",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "5",
+      "nome": "Eduardo Lima",
+      "turma": "B",
+      "ano_escolar": 3
+    },
+    {
+      "id": "6",
+      "nome": "Fernanda Souza",
+      "turma": "A",
+      "ano_escolar": 2
+    },
+    {
+      "id": "7",
+      "nome": "Gabriel Almeida",
+      "turma": "C",
+      "ano_escolar": 1
+    },
+    {
+      "id": "8",
+      "nome": "Helena Rocha",
+      "turma": "B",
+      "ano_escolar": 2
+    },
+    {
+      "id": "9",
+      "nome": "Isabela Nunes",
+      "turma": "C",
+      "ano_escolar": 3
+    },
+    {
+      "id": "10",
+      "nome": "João Pereira",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "11",
+      "nome": "Roberto Almeida",
+      "turma": "D",
+      "ano_escolar": 2
+    },
+    {
+      "id": "9e72",
+      "nome": "Cristiano",
+      "turma": "C",
+      "ano_escolar": 7
+    },
+    {
+      "id": "86b4",
+      "nome": "Joelma",
+      "turma": "A",
+      "ano_escolar": 2
+    },
+    {
+      "id": "2d5f",
+      "nome": "Tiago",
+      "turma": "B",
+      "ano_escolar": 3
+    },
+    {
+      "id": "dd5e",
+      "nome": "Geovane",
+      "turma": "A",
+      "ano_escolar": 3
+    },
+    {
+      "id": "056b",
+      "nome": "Miguel",
+      "turma": "C",
+      "ano_escolar": 2
+    },
+    {
+      "id": "269a",
+      "nome": "eu",
+      "turma": "A",
+      "ano_escolar": 1
+    },
+    {
+      "id": "75c6",
+      "nome": "Carlos",
+      "turma": "B",
+      "ano_escolar": 1
+    },
+    {
+      "id": "81b4",
+      "nome": "Abraão",
+      "turma": "B",
+      "ano_escolar": 1
+    },
+    {
+      "id": "2581",
+      "nome": "Marcos",
+      "turma": "B",
+      "ano_escolar": 3
+    }
+  ]
+}

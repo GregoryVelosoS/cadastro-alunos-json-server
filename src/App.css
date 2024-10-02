@@ -1,38 +1,53 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+li{
+  list-style-type: none;
+}
+.add-aluno{
+  display: flex;
+  flex-direction: column;
+  border: 5px solid rgb(5, 182, 252);
+  background-color:bisque;
+  width: 30%;
+  height: 95vh;
+}
+.lista-alunos{
+  border: 5px solid red;
+  background-color:skyblue;
+  width: 30%;
+  height: 95vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+form{
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+form input {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn{
+  width: 100px;
+}
+
+.tabela-alunos{
+  width: 30%;
+  height: 95vh;
+}
+
+table{
+  width: 100%;
+  height: 100%;
 }
